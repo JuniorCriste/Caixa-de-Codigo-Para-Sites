@@ -1,0 +1,17 @@
+#codep{
+overflow:auto;      /*Aqui você define se quer ou não barra de rolagem*/
+background-color: #610B38;      /*Cor do fundo*/
+border:1px solid #000000;      /*Borda e a cor dela*/
+color:#E6E6E6;      /*Cor da fonte*/ 
+font-size:115%;      /*Tamanho da fonte*/
+height:auto;      /*Altura*/
+width: 80%;      /*Largura*/
+white-space:pre;
+text-align:left;      /*Alinhamento*/
+word-wrap:break-word;      /*Quebra de linha*/
+padding:0 5px 5px 20px;      /*espaço vazio nas "beradas"*/
+font-family: 'Montserrat', sans-serif;      /*Tipo de fonte*/
+display:block;
+/*Junior Criste - Baseado em Bash Informaticode */
+}
+
